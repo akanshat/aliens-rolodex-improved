@@ -1,5 +1,5 @@
 ## Aliens Rolodex 
-
+deployed [here](https://akanshat.github.io/aliens-rolodex-improved/)
 ### Installation
 `yarn install` to install dependencies
 
